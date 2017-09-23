@@ -1,3 +1,10 @@
+.DS_Store
+Thumbs.db
+db.json
+public/
+.deploy*/
+.idea
+
 # Logs
 logs
 *.log
@@ -56,4 +63,3 @@ typings/
 
 # dotenv environment variables file
 .env
-
